@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mytrainr.Server", "mytrainr.Server\mytrainr.Server.csproj", "{34364527-76DB-4867-9C00-5E0FDFA3F904}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mytrainr.client", "mytrainr.client\mytrainr.client.esproj", "{EE8C076C-1724-4227-A202-EE046EE9E159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34364527-76DB-4867-9C00-5E0FDFA3F904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34364527-76DB-4867-9C00-5E0FDFA3F904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34364527-76DB-4867-9C00-5E0FDFA3F904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34364527-76DB-4867-9C00-5E0FDFA3F904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8C076C-1724-4227-A202-EE046EE9E159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8C076C-1724-4227-A202-EE046EE9E159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8C076C-1724-4227-A202-EE046EE9E159}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EE8C076C-1724-4227-A202-EE046EE9E159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8C076C-1724-4227-A202-EE046EE9E159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8C076C-1724-4227-A202-EE046EE9E159}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FB2FBB-4779-4E0B-B918-F48AE4F04F01}
+	EndGlobalSection
+EndGlobal
